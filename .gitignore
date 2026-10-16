@@ -34,7 +34,10 @@ next-env.d.ts
 
 # Source image sequence archive
 landing image/
-prompt
+
+# prompts
+prompt/
+
 
 # OS
 .DS_Store
